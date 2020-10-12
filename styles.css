@@ -1,0 +1,31 @@
+body {
+    background:#F2DAD8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:#8C3030;
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+    margin-right:20px;
+}
+
+h1 {
+    color:#D95F5F;
+    text-align:center;
+}
+
+h2 {
+    color:#D95F5F;
+}
+
+a {
+    text-decoration:none;
+    color:
+}
